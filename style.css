@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 50px;
+    background-image: url(https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg);
+    backdrop-filter: blur(5px);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    background-color: #cecece;
+    list-style: lower-alpha;
+}
+h3{
+    color: #000000;
+    text-size-adjust: 1px;
+    background-color: #cecece;
+}
+p{
+    color: #cecece;
+}
+h2{
+    color: rgb(0, 0, 0);
+    background-color: #cecece;
+}
+i{
+    color: rgb(255, 255, 255);
+}
+#chat-container{
+    border: 1px solid;
+    max-width: 500px;
+    margin-top: 200px;
+    padding: 10px;
+    color: aliceblue;
+    background-color:transparent;
+}
+#chat-log{
+    height: 200px;
+    overflow-y: scroll;
+}
+#user-input{
+    margin-top: auto;
+}
+details{
+    color: #cecece;
+    overflow-y: scroll;
+}
